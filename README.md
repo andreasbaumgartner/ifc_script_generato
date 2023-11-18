@@ -1,1 +1,1 @@
-# ifc_script_generato
+# ifc_script_generator
