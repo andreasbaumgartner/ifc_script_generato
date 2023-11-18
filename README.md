@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo]((https://github.com/andreasbaumgartner/ifc_script_generator/blob/main/img/gui_example.png))
 
 
 # IFC Scripts Generator Nova
@@ -39,7 +39,7 @@ Before you can run this projects make shure you have installed python3 and tkint
 
 ## Usage/Examples
 
-![alt text](https://github.com/andreasbaumgartner/ifc_script_generator/img/gui_example.jpg?raw=true)
+![example img]([https://github.com/andreasbaumgartner/ifc_script_generator/blob/main/img/gui_example.png])
 
 ## Tech Stack
 
